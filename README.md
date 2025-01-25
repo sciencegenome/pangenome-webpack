@@ -6,7 +6,8 @@
   - genome completeness - completed
   - genome annotation - writing the code.
   - analyzes the annotation and generate results - writing the code for the genome figures, syntenty and anchored charts.
-  - generates a PostGresSQL and Actix web for the generated results. 
+  - generates a PostGresSQL and Actix web for the generated results.
+- please see the last commit message and if it says compiled binary then it is completed or else still in development version.
 
 ```
 cargo build 
